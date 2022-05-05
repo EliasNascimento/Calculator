@@ -21,7 +21,7 @@ export class CalculadoraComponent implements OnInit {
   }
 
   /**
-   * Inicializa todos os operadores para o valor padrão;
+   * Start the operation to default value;
    *
    * @return void
    */
